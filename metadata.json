@@ -1,0 +1,5 @@
+{
+  "name": "Veo Studio - AI Video Generator",
+  "description": "A professional AI video generation suite using Google's Veo model. Create stunning videos from text prompts or images with various artistic styles.",
+  "requestFramePermissions": []
+}
